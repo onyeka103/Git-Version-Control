@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+button {
+    padding: 0.5rem;
+    color: antiquewhite;
+    background-color: black;
+}
